@@ -1,0 +1,14 @@
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.csprojResolveAssemblyReference.cache
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.csproj.CoreCompileInputs.cache
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.pdb
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+C:\Users\vinograd\Documents\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.pdb
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.csprojResolveAssemblyReference.cache
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.csproj.CoreCompileInputs.cache
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+C:\Users\vinograd\YandexDisk\Apt-rep\TempProjects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
